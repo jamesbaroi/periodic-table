@@ -1,0 +1,45 @@
+{{#if data}}
+<section>
+  <div class="table-heading">{{data.element}}</div>
+  <table>
+    <tr>
+      <td>{{data.id}}</td>
+      <td class="table-row-heading">&#160;Number</td>
+    </tr>
+    <tr>
+      <td>{{data.symbol}}</td>
+      <td class="table-row-heading">&#160;Symbol</td>
+    </tr>
+    <tr>
+      <td>{{data.weight_standard}}</td>
+      <td class="table-row-heading">&#160;Standard Weight</td>
+    </tr>
+    <tr>
+      <td>{{data.weight_abridged}}</td>
+      <td class="table-row-heading">&#160;Abridged Weight</td>
+    </tr>
+    <tr>
+      <td>{{data.weight_convention}}</td>
+      <td class="table-row-heading">&#160;Conventional Weight</td>
+    </tr>
+    <tr>
+      <td  class="border">{{data.weight_commerce}}</td>
+      <td class="table-row-heading border">&#160;Weight</td>
+    </tr>
+    <tr>
+      <td>{{data.error_decimal}}</td>
+      <td class="table-row-heading">&#160;Error</td>
+    </tr>
+  </table>
+  <div class="note">Weight is either (in order of preference) conventional
+    weight, abridged weight, or the most stable atomic mass (in parenthesis).
+  </div>
+  <span class="link-div">
+    <a class="return" href="/">< Return</a>
+  </span>
+  <span class="link-div">
+    <a class="return" href="https://en.wikipedia.org/wiki/{{data.element}}">
+    Wikipedia ></a>
+  </span>
+</section>
+{{/if}}

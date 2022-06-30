@@ -1,0 +1,15 @@
+{{#if results}}
+<div class="table">
+  <div class="icon btn-toggle"></div>
+  {{#each results}}
+    <div class="atomic {{symbol}}">
+      <a href="/{{element}}">
+      <div class="number">{{id}}</div>
+      <div class="symbol">{{symbol}}</div>
+      <div class="name">{{element}}</div>
+      <div class="weight">{{weight_commerce}}</div>
+      </a>
+    </div>
+  {{/each}}
+</div>
+{{/if}}
