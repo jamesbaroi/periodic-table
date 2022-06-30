@@ -15,8 +15,8 @@ web-one-o-nostalgic, gray-on-white sets the correct mood for discovery.
 For the no-nonsense chemist, no keys are provided, no unnecessary numbering of
 columns and rows that are easily counted (by most American undergraduates), no
 overuse of colors save for gases and liquids at STP, and no effort is made to
-educate. Standard weights are provided (with errors of course) gathered from
-ciaaw.org and a wikipedia link for the sorry chemist who forgot.
+educate. Standard weights are provided (with errors of course), gathered from
+ciaaw.org, and a wikipedia link is on offer for the sorry chemist who forgot.
 
 The disgruntled chemist concerned with the opinionated placement of Lanthanum
 and Actinium is referred to Laurence Lavelle's (then at UCLA) 2008 paper in the
