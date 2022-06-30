@@ -24,7 +24,7 @@ Journal of Chemical Education addressing the topic. His back-and-forth with Roy
 W. Clark and Gary D. White (then at Middle Tennessee State University) is
 suggested for further reader.
 
-## Requirements:
+## Requirements
 I. Configure mysql database
 
 II. Set runtime variables
