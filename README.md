@@ -1,6 +1,6 @@
 # Periodic-Table
-A web-app that displays a responsive and interactive periodic table of the
-chemical elements.
+A front-end web-app that displays a responsive and interactive periodic table
+of the chemical elements.
 
 ## Description
 Tired of scrolling left and right on a periodic table on your
