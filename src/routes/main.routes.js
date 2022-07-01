@@ -32,3 +32,6 @@ routerMain.get('/:element', (req, res) => {
     }
   });
 });
+
+// Redirect
+routerMain.all('*', (req, res) => { res.redirect('/'); });
